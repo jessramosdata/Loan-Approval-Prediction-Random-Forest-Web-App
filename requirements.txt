@@ -1,6 +1,3 @@
-pandas
-sklearn
-sklearn.model_selection
-sklearn.ensemble
+panda
 streamlit
-scikit-learn
+scipy
