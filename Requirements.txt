@@ -1,5 +1,3 @@
-﻿pandas
-sklearn.model_selection
-sklearn.ensemble
+pandas
 sklearn
 streamlit
