@@ -1,3 +1,6 @@
 pandas
 sklearn
+sklearn.model_selection
+sklearn.ensemble
 streamlit
+
