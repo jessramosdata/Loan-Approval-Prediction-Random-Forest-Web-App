@@ -88,7 +88,7 @@ def main():
     # front end elements of the web page 
     html_temp = """ 
     <div style ="background-color:teal;padding:13px"> 
-    <h1 style ="color:palepink;text-align:center;">Loan Prediction Approval App (Random Forest)</h1> 
+    <h1 style ="color:lightpink;text-align:center;">Loan Prediction Approval App (Random Forest)</h1> 
     </div> 
     """
       
