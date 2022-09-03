@@ -1,0 +1,13 @@
+﻿pandas
+numpy
+sklearn
+matplotlib
+sklearn.model_selection
+sklearn.ensemble
+sklearn.tree
+sklearn
+dtreeviz.trees
+sklearn.metrics
+accuracy_score
+seaborn
+streamlit
