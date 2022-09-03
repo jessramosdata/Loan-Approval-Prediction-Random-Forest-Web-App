@@ -87,8 +87,8 @@ def prediction(Gender, Married, TotalApplicantIncome, LoanAmount, Credit_History
 def main():       
     # front end elements of the web page 
     html_temp = """ 
-    <div style ="background-color:teal;padding:13px"> 
-    <h1 style ="color:#FF5733;text-align:center;">Loan Prediction Approval App (Random Forest)</h1> 
+    <div style ="background-color:#f0dfe3;padding:13px"> 
+    <h1 style ="color:#46e6d1;text-align:center;">Loan Prediction Approval App (Random Forest)</h1> 
     </div> 
     """
       
