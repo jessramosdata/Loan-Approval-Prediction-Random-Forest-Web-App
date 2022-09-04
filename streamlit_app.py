@@ -98,9 +98,9 @@ def main():
     # following lines create boxes in which user can enter data required to make prediction 
     Gender = st.selectbox('Gender',("Male","Female"))
     Married = st.selectbox('Marital Status',("Unmarried","Married")) 
-    ApplicantIncome = st.number_input("Total Monthly Income, (Include Coborrower if Applicable)") 
+    ApplicantIncome = st.number_input("Total Monthly Income, (Include Coborrower Income if Applicable)") 
     LoanAmount = st.number_input("Loan Amount (ex. 125000)")
-    Credit_History = st.selectbox('Credit History',("Has Credit History","No Credit History"))
+    Credit_History = st.selectbox('Credit History',("Established Credit History","No Credit History"))
     result =""
       
     # when 'Predict' is clicked, make the prediction and store it 
