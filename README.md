@@ -1,6 +1,8 @@
 
 # Loan Approval Prediction - Random Forest Model and Deployed Web App
 
+![](LoanApprovalDataDictionary.jpg)
+
 #### Business Case: 
 To create a model that accurately predicts loan approval and automates the manual approval process. 
 
@@ -12,11 +14,11 @@ A web app that end users can utilize to predict loan approvals using a Random Fo
 
     1. Web App: https://jessramos2-loan-approval-random-forest-web-streamlit-app-47jl27.streamlitapp.com/
     
-    ![](WebAppPic.png)
+    ![](WebAppPic.jpg)
     
     2. Sample decision tree from the Random Forest model.
     
-![](DecisionTree.png)
+![](DecisionTree.jpg)
 
 #### In Repository:
 
