@@ -12,11 +12,11 @@ To accurately predict loan approvals without falsely approving too many loans th
 ## Deliverable: 
 A web app that end users can utilize to predict loan approvals using a Random Forest model on the backend. 
 
-    ### 1. Web App: https://jessramos2-loan-approval-random-forest-web-streamlit-app-47jl27.streamlitapp.com/
+    1. Web App: https://jessramos2-loan-approval-random-forest-web-streamlit-app-47jl27.streamlitapp.com/
     
   ![](WebAppPic.jpg)
     
-    ### 2. Sample decision tree from the Random Forest model.
+    2. Sample decision tree from the Random Forest model.
     
 ![](DecisionTree.jpg)
 
