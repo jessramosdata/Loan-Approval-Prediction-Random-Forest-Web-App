@@ -19,7 +19,7 @@ A web app that end users can utilize to predict loan approvals using a Random Fo
 
 1. Data & data dictionary
 
-2. Sample decision tree from random forests
+2. Sample decision tree from random forest
 
 3. Random Forest Model Creation (Loan Approval Model.ipynb)
 
