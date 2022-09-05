@@ -12,7 +12,7 @@ A web app that end users can utilize to predict loan approvals using a Random Fo
 
     Web App: https://jessramos2-loan-approval-random-forest-web-streamlit-app-47jl27.streamlitapp.com/
     
-![]()
+![](DecisionTree.jpg)
 
 #### In Repository:
 
