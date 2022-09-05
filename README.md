@@ -50,3 +50,6 @@ The F1 score on the testing data is ~88%, which is great since it takes into acc
 ### Business Impact: 
 
 End users will be able to use the web app built off of this model to predict loan approvals right in front of the borrower. There will be no missed revenue opportunities since the model captures all true approvals (recall is 100%), and only a small portion of borrowers predicted to be approved will actually be denied. This will speed up the manual approval process and allow the company to process more loans in less time, resulting in more clients and revenue. 
+
+
+#### Next Steps: Monitor performance and retrain model with more data as more data becomes available. 
