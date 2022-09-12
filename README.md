@@ -1,7 +1,7 @@
 
 ## Loan Approval Prediction - Random Forest Model and Deployed Web App
 
-![](DataDictionary.jpg)
+![](DataDictionary.jpg=200x100)
 
 ## Business Case: 
 To create a model that accurately predicts loan approval and automates the manual approval process. 
