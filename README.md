@@ -15,7 +15,7 @@ A web app that end users can utilize to predict loan approvals using a Random Fo
 
     1. Web App: https://jessramos2-loan-approval-random-forest-web-streamlit-app-47jl27.streamlitapp.com/
     
-  ![](WebAppPic.jpg)
+  <img src="WebAppPic.jpg" width="400" height="500">
 
 ### In Repository:
 
@@ -25,7 +25,7 @@ A web app that end users can utilize to predict loan approvals using a Random Fo
 
 2. Sample decision tree from random forest
     
-![](DecisionTree.jpg)
+ <img src="DecisionTree.jpg" width="400" height="500">
 
 3. Random Forest Model Creation (Loan Approval Model.ipynb)
 
