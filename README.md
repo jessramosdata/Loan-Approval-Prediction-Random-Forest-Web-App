@@ -3,7 +3,7 @@
 
 ![](DataDictionary.jpg)
 
-<img src="DataDictionary.jpg" width="400" height="500">
+<img src="DataDictionary.jpg" width="600" height="500">
 
 ## Business Case: 
 To create a model that accurately predicts loan approval and automates the manual approval process. 
