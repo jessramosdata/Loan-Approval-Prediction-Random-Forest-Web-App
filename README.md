@@ -21,7 +21,7 @@ A web app that end users can utilize to predict loan approvals using a Random Fo
 
 1. Data & data dictionary
 
-<img src="DataDictionary.jpg" width="600" height="500">
+<img src="DataDictionary.jpg" width="700" height="500">
 
 2. Random Forest Model Creation (Loan Approval Model.ipynb)
 
