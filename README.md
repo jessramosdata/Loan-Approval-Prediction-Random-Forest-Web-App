@@ -1,7 +1,7 @@
 
 ## Loan Approval Prediction - Random Forest Model and Deployed Web App
 
-#### Project Purpose: 
+## Project Purpose: 
 To demonstrate a full ML project from scratch to deployment to a web app.
 
 ## Business Case: 
