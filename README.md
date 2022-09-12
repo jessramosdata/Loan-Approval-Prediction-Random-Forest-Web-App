@@ -23,11 +23,11 @@ A web app that end users can utilize to predict loan approvals using a Random Fo
 
 <img src="DataDictionary.jpg" width="500" height="500">
 
-2. Sample decision tree from random forest
+2. Random Forest Model Creation (Loan Approval Model.ipynb)
+
+3. Sample decision tree from random forest
     
  ![](DecisionTree.jpg)
-
-3. Random Forest Model Creation (Loan Approval Model.ipynb)
 
 4. Web App Python Code (streamlit_app.py)
 
